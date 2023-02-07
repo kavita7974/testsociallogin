@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "580771027753",
+    "project_id": "login-54e6b",
+    "storage_bucket": "login-54e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580771027753:android:caf94f66bd2e4c24a97538",
+        "android_client_info": {
+          "package_name": "com.socialloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSNWD3APdQAGsQovI5pHO1q5qtjk-hQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580771027753-p3isdrc27lv037s544hq1qnube7tditv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580771027753:android:17694eb88e610d4fa97538",
+        "android_client_info": {
+          "package_name": "com.testsocialloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSNWD3APdQAGsQovI5pHO1q5qtjk-hQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580771027753-p3isdrc27lv037s544hq1qnube7tditv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
